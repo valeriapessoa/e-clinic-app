@@ -1,0 +1,27 @@
+O que foi preciso instalar, mas como esses pacotes já estão no nodu_modules, qualquer coisa você só roda o comando "npm install" para ele baixar as dependências:
+
+npm install express
+npm install axios
+npm install mysql
+npm install cors
+
+
+O que precisa ser feito para o aplicativo funcionar no seu celular/notebook:
+
+1. Caso você rode no notebook, é preciso instalar o Bluestack (é um emulador de android e você consegue baixar o expo go por ele).
+
+2. Se você for rodar no celular, é preciso liberar na regra de firewall do seu notebook para o celular conseguir acessar o endereço de IP da sua máquina.
+
+3. Inicializar os serviços do mysql e apache no Xampp.
+
+4. Criar o banco de dados no myphpAdmin de acordo com a tela index.js, na pasta "Banco de Dados" você encontra o arquivo do meu banco de dados no mysql.
+
+5. É preciso atualizar as APIs nas telas de LoginScreen, RegisterScreen e Agendamento com o endereço IPV4 da sua máquina (o mesmo que aparece no expo), a porta 3000 você pode manter.
+
+6. Na hora de executar o aplicativo, você precisa abrir dois terminais na pasta do seu projeto, um roda o frontend (comando: npx expo start) e o outro o backend (comando: nodemon index.js).
+
+
+
+
+
+
