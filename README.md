@@ -1,7 +1,7 @@
-# <center>App E-Clinic</center>
+<h1 align="center">App E-Clinic</h1>
+<br/>
 
 ## 🚀 Tecnologias
-
 - JavaScript
 - React Native
 - MySQL
