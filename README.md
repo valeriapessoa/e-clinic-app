@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-O app da E-Clinic foi desenvolvido para facilitar o atendimento de seus pacientes, é possível consultar as unidades, planos de saúde e informações de canais de atendimento. Agora ficou simples e rápido agendar consultas e exames.
+O app E-Clinic foi desenvolvido para facilitar o atendimento de seus pacientes, é possível consultar as unidades, planos de saúde e informações de canais de atendimento. Agora ficou simples e rápido agendar consultas e exames.
 
 ## 🎥 Vídeo
 
